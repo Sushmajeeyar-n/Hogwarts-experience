@@ -20,6 +20,20 @@ An interactive Harry Potter-inspired frontend built with React, TypeScript, Tail
 - Framer Motion
 - Vite
 
+## Installation
+
+```bash
+git clone https://github.com/Sushmajeeyar-n/Hogwarts-experience.git
+cd Hogwarts-experience
+npm install
+npm run dev
+```
+
+## 🌟 Inspiration
+
+Inspired by the magical world of Harry Potter.  
+
+
 ## Live Demo
 
 https://hogwarts-experience-nine.vercel.app/
