@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-## 🌟 Inspiration
+## Inspiration
 
 Inspired by the magical world of Harry Potter.  
 
